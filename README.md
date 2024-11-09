@@ -1,2 +1,2 @@
-# automaization-crash-course1
+# automization-crash-course1
 this is my repository 
